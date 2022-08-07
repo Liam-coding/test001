@@ -15,6 +15,6 @@ public class GenServlet extends GenericServlet {
     @Override
     public void service(ServletRequest servletRequest, ServletResponse servletResponse) throws ServletException, IOException {
         System.out.println("GenServlet is running...");
-        System.out.println("GenServlet is running...");//wy
+        System.out.println("GenServlet is running...");//wy22
     }
 }
