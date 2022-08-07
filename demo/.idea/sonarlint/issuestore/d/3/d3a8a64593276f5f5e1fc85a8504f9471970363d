@@ -1,0 +1,14 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(˜˜Ïþ
+W
+java:S1854"<Remove this useless assignment to local variable "password".(…ˆíÝþÿÿÿÿ
+W
+java:S1854"<Remove this useless assignment to local variable "username".(éœë¾øÿÿÿÿ
+‚
+java:S1989"lHandle the following exception that could be thrown by "setCharacterEncoding": UnsupportedEncodingException.(±Œ©À
+f
+java:S1989""PHandle the following exception that could be thrown by "getWriter": IOException.(¼½Ù†
+H
+java:S1481"-Remove this unused "username" local variable.(éœë¾øÿÿÿÿ
+H
+java:S1481"-Remove this unused "password" local variable.(…ˆíÝþÿÿÿÿ
